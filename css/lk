@@ -1,0 +1,58 @@
+body {
+  background-color: #f0f0f0;
+}
+header {
+  font-family: "Verdana", Tahoma, Geneva, Verdana, sans-serif;
+}
+.personal_info {
+  width: 20%;
+  float: left;
+  background-color: white;
+  border-radius: 15px;
+  margin-top: 100px;
+  margin-left: 50px;
+  position: relative;
+}
+.container div {
+  float: left;
+  margin-bottom: 15px;
+}
+.center-pic{
+    text-align:center;
+    }
+.col-1-5 {
+  width: 20%;
+  background-color: white;
+  border-radius: 15px;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+.col-3-5 {
+  width: 50%;
+  background-color: white;
+  border-radius: 15px;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+h4{
+    padding: 10px;
+}
+.scrollspy-example {
+max-height: 512px;
+    overflow-y: scroll
+}
+body {
+    position: relative;
+  }
+.col-3-5 p{
+    color: gray;
+}
+.col-3-5 h5{
+    color: #2F4454;
+    text-decoration: none;
+}.btn btn-primary{
+  color: transparent;
+}
+.Go_out{
+  background-color: #f0f0f0;
+}
