@@ -1,0 +1,48 @@
+body {
+    background-color: #f0f0f0;
+  }
+header {
+  font-family: "Verdana", Tahoma, Geneva, Verdana, sans-serif;
+}
+.results {
+    width: 60%;
+    margin: 15px;
+    float: left;
+}
+.scrollspy-example {
+    height: 80%;
+    margin-top: 20px;
+    overflow-y: scroll
+}
+.FIO{
+    font-weight: bold;
+    width: 20% ;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.progress{
+    
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.progressbar {
+    width: 35%;
+    float: right;
+}
+.row {
+  border-radius: 15px;
+  font-family: "Verdana", Tahoma, Geneva, Verdana, sans-serif;
+}
+.p-3{
+    border-radius: 15px;
+    background-color: white;
+}
+h5{
+    font-weight: bold;
+}
+.projects {
+    width: 35%;
+    margin: 15px;
+    float: right;
+}
