@@ -1,0 +1,20 @@
+body {
+    background-color: #f0f0f0;
+  }
+  header {
+    font-family: "Verdana", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .row {
+    border-radius: 15px;
+    font-family: "Verdana", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .p-3{
+      border-radius: 15px;
+      background-color: white;
+  }
+  .offcanvas offcanvas-end{
+    background-color: white;
+  }
+  section{
+    margin: 15px;
+  }
